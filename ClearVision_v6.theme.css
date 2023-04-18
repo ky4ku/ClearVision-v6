@@ -20,7 +20,7 @@
   --success-color: #43b581;
   --danger-color: #982929;
   --url-color: var(--main-color);
-  --background-image: url('https://images.alphacoders.com/102/102853.jpg');
+  --background-image: url('https://images4.alphacoders.com/108/1082527.png');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
@@ -88,6 +88,6 @@
   --bd-blue-active: var(--hover-color);
 }
 
-#categoryName {
+%categoryName {
   color: red;
 }

@@ -89,7 +89,3 @@
   --bd-blue-hover: var(--hover-color);
   --bd-blue-active: var(--hover-color);
 }
-
-.categoryName {
-  color: red;
-}

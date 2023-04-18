@@ -61,6 +61,7 @@
   --channel-unread: #C7D0FF;
   --channel-color: rgb(99,122,255,1);
   --muted-color: rgb(199,230,255,0.44);
+  --chat-bar-color: rgb(0,13,191,0.5);
   --online-color: #43b581;
   --idle-color: #faa61a;
   --dnd-color: #982929;
@@ -86,8 +87,4 @@
   --bd-blue: var(--main-color);
   --bd-blue-hover: var(--hover-color);
   --bd-blue-active: var(--hover-color);
-}
-
-.categoryName {
-  color: red;
 }

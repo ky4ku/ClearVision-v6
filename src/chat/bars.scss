@@ -61,7 +61,7 @@
     color: hsla(0, 0%, 100%, 0.7);
     transition: all 0.15s ease-in-out;
     &:hover {
-      background: $main-color;
+      background: $chat-bar-color;
       color: #fff;
     }
     &:active {
@@ -80,7 +80,7 @@
 
 // BRAND
 %barBrand {
-  background-color: red;
+  background-color: $chat-bar-color;
   > * {
     color: #fff !important;
   }

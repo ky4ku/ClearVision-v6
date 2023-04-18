@@ -15,11 +15,11 @@
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
-  --main-color: #9BCAFF;
-  --hover-color: #3F51B5;
+  --main-color: #3551C5;
+  --hover-color: #313E85;
   --success-color: #43b581;
   --danger-color: #982929;
-  --url-color: var(--main-color);
+  --url-color: #B4BFFD;
   --background-image: url('https://images4.alphacoders.com/108/1082527.png');
   --background-shading: 100%;
   --background-position: center;
@@ -61,8 +61,6 @@
   --channel-unread: #C7D0FF;
   --channel-color: rgb(99,122,255,1);
   --muted-color: rgb(199,230,255,0.44);
-  --chat-bar-color: rgb(0,13,191,0.5);
-  --chat-bar-hover-color: rgb(0,13,191,0.75);
   --online-color: #43b581;
   --idle-color: #faa61a;
   --dnd-color: #982929;

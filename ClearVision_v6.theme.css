@@ -88,18 +88,13 @@
 }
 
 /* Category names */
-h2.container-q97qHp {
-	font-family: Arial, Helvetica, sans-serif !important;
-	color: rgb(135, 206, 250) !important;
-}
-
-/* Settings category names */
+h2.container-q97qHp,
 .sidebar-nqHbhN .header-2F5_LB {
 	font-family: Arial, Helvetica, sans-serif !important;
-	color: rgb(135, 206, 250) !important;
+	color: #AFDAF7 !important;
 }
 
 /* Settings non selected items */
 .item-2GWPIy[aria-selected=false] {
-	color: #C7D0FF !important;
+	color: #EEEEEE !important;
 }

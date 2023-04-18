@@ -14,7 +14,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  color: $red;
+  color: red;
   font-weight: 700;
   text-align: center;
   transition: all 0.3s ease-in-out;
@@ -24,7 +24,7 @@
     height: 2px;
     flex-grow: 1;
     transition: all 0.3s ease-in-out;
-    background: linear-gradient(to left, $red 50%, transparent);
+    background: linear-gradient(to left, red 50%, transparent);
     margin-right: 5px;
   }
   &:after {
@@ -32,7 +32,7 @@
     height: 2px;
     flex-grow: 1;
     transition: all 0.3s ease-in-out;
-    background: linear-gradient(to right, $red 50%, transparent);
+    background: linear-gradient(to right, red 50%, transparent);
     margin-left: 5px;
   }
   %categoryMain:hover & {
@@ -43,7 +43,7 @@
   %categoryContainer {
     %categoryWrapper {
       %categoryName {
-        color: $red;
+        color: red;
       }
     }
   }
@@ -69,11 +69,11 @@
 
 // ADD CHANNEL ICON
 %categoryAddIcon {
-  color: var(--red);
+  color: red;
   opacity: 0.7;
   transition: all 0.3s ease-in-out;
   &:hover {
-    color: var(--red);
+    color: red;
     opacity: 1;
   }
 }

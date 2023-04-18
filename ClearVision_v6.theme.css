@@ -12,7 +12,7 @@
 */
 
 @import url('https://fonts.googleapis.com/css2?family=Cantarell:wght@100;300;400;500;700&display=swap');
-@import url('main.scss');
+@import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
   --main-color: #3551C5;
@@ -86,4 +86,8 @@
   --bd-blue: var(--main-color);
   --bd-blue-hover: var(--hover-color);
   --bd-blue-active: var(--hover-color);
+}
+
+.categoryPill-1zjNrr.selected-bLcqYK {
+	background-color: red
 }

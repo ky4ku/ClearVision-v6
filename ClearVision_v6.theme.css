@@ -87,12 +87,3 @@
   --bd-blue-hover: var(--hover-color);
   --bd-blue-active: var(--hover-color);
 }
-
-.categoryPill-1zjNrr.selected-bLcqYK {
-	background-color: red !important;
-  font-family: Arial, Helvetica, sans-serif !important;
-}
-
-.categoryItem-Kc_HK_.selectedCategoryItem-ZjqSui .itemInner-3e_4G4 {
-	background-color: red !important;
-}

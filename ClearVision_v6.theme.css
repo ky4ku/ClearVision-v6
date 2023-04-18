@@ -87,9 +87,7 @@
 	--bd-blue-active: var(--hover-color);
 }
 
-h2.container-q97qHp,
-h2.container-q97qHp::after,
-h2.container-q97qHp::before {
+h2.container-q97qHp {
 	font-family: Arial, Helvetica, sans-serif !important;
 	color: rgb(135, 206, 250) !important;
 }

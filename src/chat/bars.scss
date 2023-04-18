@@ -7,7 +7,7 @@
     content: '';
     position: absolute;
     @include stretch;
-    background: $main-color;
+    background: $chat-bar-color;
     border-radius: 0 0 3px 3px;
     opacity: 0.8;
     z-index: -1;
@@ -31,7 +31,7 @@
 
 // JUMP TO PRESENT BAR
 %jumpToPresentBar {
-  background: rgba(0, 0, 0, 0.7);
+  background: $chat-bar-color;
   border-radius: 3px;
   transition: all 0.15s ease-in-out;
   padding-bottom: 0px;
@@ -41,7 +41,7 @@
     transition: inherit;
   }
   &:hover {
-    background: $main-color;
+    background: $chat-bar-hover-color;
     >button {
       color: #fff;
     }
@@ -80,7 +80,7 @@
 
 // BRAND
 %barBrand {
-  background-color: $main-color;
+  background-color: red;
   > * {
     color: #fff !important;
   }

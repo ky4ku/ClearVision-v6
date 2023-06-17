@@ -93,7 +93,9 @@ h2.container-q97qHp,
 	font-family: Arial, Helvetica, sans-serif !important;
 }
 
-h3.container-q97qHp {
+h3.container-q97qHp,
+h2.container-q97qHp, 
+h2.container-q97qHp svg {
 	color: #CEECFF !important;
 	text-shadow: 0 0 1px white;
 }

@@ -61,7 +61,7 @@
 	--channel-color: rgb(99, 122, 255, 1);
 	--channels-default: #87CEFA;
 	/*--muted-color: rgb(199, 230, 255, 0.44);*/
-	--muted-color: red;
+	--interactive-muted: red;
 	--online-color: #43b581;
 	--idle-color: #faa61a;
 	--dnd-color: #982929;

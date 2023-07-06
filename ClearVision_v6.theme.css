@@ -59,6 +59,7 @@
 	--home-size: 50px;
 	--interactive-active: #C7D0FF;  /* channel unread */
 	--channel-color: rgb(99, 122, 255, 1);
+	--channels-default: #87CEFA;
 	--muted-color: rgb(199, 230, 255, 0.44);
 	--online-color: #43b581;
 	--idle-color: #faa61a;

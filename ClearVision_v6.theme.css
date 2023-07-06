@@ -60,8 +60,7 @@
 	--interactive-active: #C7D0FF;  /* channel unread */
 	--channel-color: rgb(99, 122, 255, 1);
 	--channels-default: #87CEFA;
-	/*--muted-color: rgb(199, 230, 255, 0.44);*/
-	--interactive-muted: red;
+	--interactive-muted: rgb(199, 230, 255, 0.44);
 	--online-color: #43b581;
 	--idle-color: #faa61a;
 	--dnd-color: #982929;
@@ -91,7 +90,7 @@
 
 /* Category names */
 h2.container-q97qHp,
-.sidebar-nqHbhN .header-2F5_LB {
+h3.container-q97qHp {
 	font-family: Arial, Helvetica, sans-serif !important;
 }
 

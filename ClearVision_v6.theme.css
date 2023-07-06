@@ -57,7 +57,7 @@
 	--home-icon: url('https://i.imgur.com/jOz4XY2.gif');
 	--home-position: center;
 	--home-size: 50px;
-	--channel-unread: #C7D0FF;
+	--interactive-active: #C7D0FF;  /* channel unread */
 	--channel-color: rgb(99, 122, 255, 1);
 	--muted-color: rgb(199, 230, 255, 0.44);
 	--online-color: #43b581;
@@ -100,7 +100,7 @@ h2.container-q97qHp svg {
 	text-shadow: 0 0 1px white;
 }
 
-.sidebar-nqHbhN .header-2F5_LB {
+.name_28HaxV {
 	color: #87CEFA !important;
 }
 

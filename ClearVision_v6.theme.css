@@ -60,7 +60,8 @@
 	--interactive-active: #C7D0FF;  /* channel unread */
 	--channel-color: rgb(99, 122, 255, 1);
 	--channels-default: #87CEFA;
-	--muted-color: rgb(199, 230, 255, 0.44);
+	/*--muted-color: rgb(199, 230, 255, 0.44);*/
+	--muted-color: red;
 	--online-color: #43b581;
 	--idle-color: #faa61a;
 	--dnd-color: #982929;
@@ -101,11 +102,7 @@ h2.container-q97qHp svg {
 	text-shadow: 0 0 1px white;
 }
 
-.name_28HaxV {
-	color: #87CEFA !important;
-}
-
 /* Settings non selected items */
-.item-2GWPIy[aria-selected=false] {
+.name_28HaxV[aria-selected=false] {
 	color: #EEEEEE !important;
 }

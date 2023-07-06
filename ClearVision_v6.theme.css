@@ -60,7 +60,7 @@
 	--interactive-active: #C7D0FF;  /* channel unread */
 	--channel-color: rgb(99, 122, 255, 1);
 	--channels-default: #87CEFA;
-	--interactive-muted: rgb(199, 230, 255, 0.44);
+	--interactive-muted: rgb(199, 230, 255, 0.44);  /* channel muted */
 	--online-color: #43b581;
 	--idle-color: #faa61a;
 	--dnd-color: #982929;
@@ -88,15 +88,13 @@
 	--bd-blue-active: var(--hover-color);
 }
 
-/* Category names */
-h2.container-q97qHp,
-h3.container-q97qHp {
-	font-family: Arial, Helvetica, sans-serif !important;
-}
-
+/* Channel category */
 h3.container-q97qHp,
 h2.container-q97qHp, 
 h2.container-q97qHp svg {
 	color: #CEECFF !important;
 	text-shadow: 0 0 1px white;
+}
+.name-3BUDLf {
+	opacity: 1;
 }

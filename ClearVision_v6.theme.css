@@ -61,6 +61,7 @@
 	--channel-unread: #C7D0FF;  /* channel unread */
 	--channel-color: #5169cf;
 	--interactive-muted: rgb(199, 230, 255, 0.44);  /* channel muted */
+	--muted-color: rgb(199, 230, 255, 0.44);  /* channel muted */
 	--online-color: #43b581;
 	--idle-color: #faa61a;
 	--dnd-color: #982929;
@@ -94,7 +95,5 @@ h2.container-q97qHp,
 h2.container-q97qHp svg {
 	color: #CEECFF !important;
 	text-shadow: 0 0 1px white;
-}
-.name-28HacV {
 	opacity: 1;
 }

@@ -58,7 +58,7 @@
 	--home-position: center;
 	--home-size: 50px;
 	--interactive-active: #C7D0FF;  /* channel unread */
-	--channels-default: #5169cf;
+	--channel-color: #5169cf;
 	--interactive-muted: rgb(199, 230, 255, 0.44);  /* channel muted */
 	--online-color: #43b581;
 	--idle-color: #faa61a;
@@ -94,6 +94,6 @@ h2.container-q97qHp svg {
 	color: #CEECFF !important;
 	text-shadow: 0 0 1px white;
 }
-.name-3BUDLf {
+.name-28HacV {
 	opacity: 1;
 }
